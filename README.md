@@ -1,3 +1,4 @@
+ HEAD
 # Pizza Delivery Application
 
 A full-stack Pizza Delivery Application built with modern web technologies.
@@ -171,3 +172,19 @@ To create an admin user, you can directly update a user's role in the database o
 ## License
 
 MIT License
+
+# OIBSIP Internship
+
+## Task 1 - Landing Page
+
+This is a responsive landing page created using HTML and CSS.
+
+### Features:
+- Modern UI Design
+- Responsive Layout
+- Hover Effects
+- Clean Structure
+
+### Author:
+Aruna T
+ 84cf4a8aea2c9a49902fe46c10185c7c2844ac76
